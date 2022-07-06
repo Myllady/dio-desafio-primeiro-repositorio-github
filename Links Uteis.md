@@ -1,7 +1,7 @@
  #  Links Úteis
 
-##[Download Git](https://git-scm.com/download)  
+[Download Git](https://git-scm.com/download)  
 
-##[GitHub](https://github.com/)
+[GitHub](https://github.com/)
 
-##[Sintaxe Básica Markdown Guide](https://www.markdownguide.org/basic-syntax)
+[Sintaxe Básica Markdown Guide](https://www.markdownguide.org/basic-syntax)
