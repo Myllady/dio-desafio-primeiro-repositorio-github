@@ -1,19 +1,19 @@
-# Comando Úteis
+# Comandos Úteis
 
-**git init** Criar novo repositório
-
-
-**git status** Verificar estado dos arquivos/diretórios
+**git init**  - Criar novo repositório
 
 
-**git add** Adicionar arquivos
+**git status** - Verificar estado dos arquivos/diretórios
 
 
-**git commit** Comitar arquivos
+**git add**  - Adicionar arquivos
 
 
-**git rm** Remover um arquivo
+**git commit** - Comitar arquivos
 
 
-**git clone** Clonar um Repositório
+**git rm** - Remover um arquivo
+
+
+**git clone** - Clonar um Repositório
 
